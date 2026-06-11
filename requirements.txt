@@ -131,7 +131,7 @@ sympy==1.13.3
 tenacity==9.0.0
 threadpoolctl==3.5.0
 tifffile==2023.7.10
-
+plotly
 toml==0.10.2
 tomlkit==0.12.0
 
